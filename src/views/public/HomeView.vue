@@ -1,6 +1,6 @@
 <!-- src/views/public/HomeView.vue -->
 <template>
-  <div class="bg-gray-50">
+  <div >
     <HeroSection />
     <FeaturesGrid />
     <CallToAction />
