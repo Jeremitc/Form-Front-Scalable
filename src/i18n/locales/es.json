@@ -1,0 +1,37 @@
+
+{
+  "home": {
+    "title": "Inicio",
+    "description": "¡Bienvenido a la página de inicio!"
+  },
+  "login": {
+    "title": "Iniciar sesión",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "submit": "Iniciar sesión"
+  },
+  "dashboard": {
+    "title": "Panel de control",
+    "welcome": "¡Bienvenido a tu panel de control!",
+    "logout": "Cerrar sesión"
+  },
+  "about": {
+    "title": "Acerca de",
+    "description": "Conoce más sobre nuestra aplicación."
+  },
+  "profile": {
+    "title": "Perfil",
+    "description": "Ver y editar tu perfil."
+  },
+  "notFound": {
+    "title": "404 - Página no encontrada",
+    "description": "La página que buscas no existe.",
+    "back": "Volver al inicio"
+  },
+  "perfil_usuario": {
+    "titulo": "perfil de usuario {id}"
+  },
+  "admin": {
+    "titulo": "Administración"
+  }
+}
