@@ -1,6 +1,6 @@
 // src/main.ts
 import { createApp } from 'vue'; // Cambia '#vue' por 'vue'
-import './style/input.css';
+import './styles/input.css';
 import App from './App.vue';
 import router from './router';
 import { i18n } from './i18n';

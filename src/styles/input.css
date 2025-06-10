@@ -1,0 +1,16 @@
+/*
+  ¡No se necesita @tailwind base, @tailwind components, ni @tailwind utilities aquí!
+  El plugin @tailwindcss/vite se encarga de todo.
+  src/styles/input.css
+  Este es el lugar para tus estilos globales o variables CSS.
+*/
+@import "tailwindcss";
+
+@layer base {
+  body {
+    /* Por ejemplo, si quieres una fuente base o un color de fondo */
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif;
+  }
+}
+
+/* Puedes añadir más personalizaciones si es necesario */

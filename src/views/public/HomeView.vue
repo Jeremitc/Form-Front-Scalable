@@ -1,17 +1,14 @@
 <!-- src/views/public/HomeView.vue -->
 <template>
-  <div>
+  <div class="bg-gray-50">
     <HeroSection />
     <FeaturesGrid />
-    <!-- <Testimonials /> -->
-    <!-- <CallToAction /> -->
+    <CallToAction />
   </div>
 </template>
 
 <script setup lang="ts">
-// Importa los componentes que has creado
 import HeroSection from '../../components/home/HeroSection.vue';
 import FeaturesGrid from '../../components/home/FeaturesGrid.vue';
-// import Testimonials from '../../components/views/home/Testimonials.vue';
-// import CallToAction from '../../components/views/home/CallToAction.vue';
+import CallToAction from '../../components/home/CallToAction.vue';
 </script>
